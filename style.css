@@ -54,10 +54,25 @@ button {
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
 }
 
+button:hover {
+    background-color: #ffffff;
+    color: #3a4452;
+}
+
 .equalBtn {
     background-color: #fb7c14;
 }
 
+.equalBtn:hover {
+    background-color: #ffffff;
+    color: #fb7c14;
+}
+
 .operator {
+    color: #6dee0a;
+}
+
+.operator:hover {
+    background-color: #ffffff;
     color: #6dee0a;
 }
